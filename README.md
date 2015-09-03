@@ -5,6 +5,9 @@ This is the script and shader to render the eye in front of the hair at Unity5 f
 ![Sample](https://pbs.twimg.com/media/CNIfNKgVEAIm-ds.png:large)
 <https://twitter.com/apras60/status/635604810398433280/photo/1>
 
+Demo(WebGL)  
+<http://www.apras.net/contents/data_unity/Unity-OverrideEye/index.html>
+
 ## How to use
 * 手前に描画したい GameObject に、OverrideEye コンポーネントを追加。
  + **Type** から描画タイプを選択
