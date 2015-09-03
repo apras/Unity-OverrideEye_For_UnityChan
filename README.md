@@ -2,6 +2,9 @@
 This is the script and shader to render the eye in front of the hair at Unity5 for UnityChan.  
 これは、UnityChan用のUnity5にて眼などを髪の毛の手前にレンダリングするスクリプト及びシェーダーです。
 
+![Sample](https://pbs.twimg.com/media/CNIfNKgVEAIm-ds.png:large)
+<https://twitter.com/apras60/status/635604810398433280/photo/1>
+
 ## How to use
 * 手前に描画したい GameObject に、OverrideEye コンポーネントを追加。
  + **Type** から描画タイプを選択
